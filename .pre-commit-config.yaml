@@ -8,6 +8,12 @@
 # Copyright 2021 林博仁(Buo-ren, Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
+# Avoid checking sample files
+exclude: |
+  (?ix)^(
+    .*\.sample\..*
+  )$
+
 repos:
   # Some out-of-the-box hooks for pre-commit
   # https://github.com/pre-commit/pre-commit-hooks
