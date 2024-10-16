@@ -1,0 +1,8 @@
+* [Google Cloud Documentation home](https://cloud.google.com/docs)
+* [Get started with Google Cloud](https://cloud.google.com/docs/get-started)
+* [Integrated AI assistance with Gemini for Google Cloud](https://cloud.google.com/gemini/docs)
+* [Recent release notes](https://cloud.google.com/release-notes)
+* [Getting support with Cloud Customer Care](https://cloud.google.com/support/docs)
+* [Cross-product tools](None)
+* [Access and resource management](None)
+* [Access and resource management overview](/docs/access-resources)
