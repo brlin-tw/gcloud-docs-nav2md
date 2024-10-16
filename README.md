@@ -11,10 +11,14 @@ Convert the unselectable navigation interface of the Google Cloud documentation 
 
 You need to have the following software installed in order to follow this tutorial:
 
-* Mozilla Firefox
-* [html-query](https://github.com/orf/html-query)
-* Your preferred plaintext editor application
-* Your preferred text terminal emulator application
+* Mozilla Firefox  
+  For selecting the HTML markup of the navigation interface we need to parse data from.
+* [html-query](https://github.com/orf/html-query)  
+  For parsing the navigation interface HTML markup into JSON data for further processing.
+* Your preferred plaintext editor application  
+  For examining the HTML markup.
+* Your preferred text terminal emulator application  
+  For running command-line interface commands required by this tutorial.
 
 ## Licensing
 
