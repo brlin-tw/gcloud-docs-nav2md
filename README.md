@@ -15,9 +15,9 @@ You need to have the following software installed in order to follow this tutori
   For uncompressing the gzip-compressed product's release archive.
 * [html-query](https://github.com/orf/html-query)  
   For parsing the navigation interface HTML markup into JSON data for further processing.
-* jinjanator  
+* [jinjanator](https://github.com/kpfleming/jinjanator)  
   For converting the JSON navigation data into Markdown markup using Jinja2 templates.
-* jq  
+* [jq](https://jqlang.github.io/jq/)  
   For beautifying the JSON navigation data for easier inspecting the parse results.
 * Mozilla Firefox  
   For selecting the HTML markup of the navigation interface we need to parse data from.
