@@ -11,12 +11,20 @@ Convert the unselectable navigation interface of the Google Cloud documentation 
 
 You need to have the following software installed in order to follow this tutorial:
 
+* gzip  
+  For uncompressing the gzip-compressed product's release archive.
 * [html-query](https://github.com/orf/html-query)  
   For parsing the navigation interface HTML markup into JSON data for further processing.
+* jinjanator  
+  For converting the JSON navigation data into Markdown markup using Jinja2 templates.
+* jq  
+  For beautifying the JSON navigation data for easier inspecting the parse results.
 * Mozilla Firefox  
   For selecting the HTML markup of the navigation interface we need to parse data from.
 * Your preferred plaintext editor application  
   For examining the HTML markup.
+* Your preferred tar archive manipulating application.  
+  For extracting the product's release archive.
 * Your preferred text terminal emulator application  
   For running command-line interface commands required by this tutorial.
 
