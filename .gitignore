@@ -93,3 +93,6 @@
 # Ignore non-sample data
 /dump.html
 /nav.json
+
+# Ignore conversion result file
+/toc.md
