@@ -1,0 +1,36 @@
+{
+  "navitems": [
+    {
+      "title": "Google Cloud Documentation home",
+      "url": "https://cloud.google.com/docs"
+    },
+    {
+      "title": "Get started with Google Cloud",
+      "url": "https://cloud.google.com/docs/get-started"
+    },
+    {
+      "title": "Integrated AI assistance with Gemini for Google Cloud",
+      "url": "https://cloud.google.com/gemini/docs"
+    },
+    {
+      "title": "Recent release notes",
+      "url": "https://cloud.google.com/release-notes"
+    },
+    {
+      "title": "Getting support with Cloud Customer Care",
+      "url": "https://cloud.google.com/support/docs"
+    },
+    {
+      "title": "Cross-product tools",
+      "url": null
+    },
+    {
+      "title": "Access and resource management",
+      "url": null
+    },
+    {
+      "title": "Access and resource management overview",
+      "url": "/docs/access-resources"
+    }
+  ]
+}
