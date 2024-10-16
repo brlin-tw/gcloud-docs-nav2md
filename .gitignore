@@ -90,4 +90,5 @@
 /continuous-integration/venv/
 
 # Ignore non-sample data
+/dump.html
 /nav.json
