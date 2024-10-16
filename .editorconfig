@@ -67,3 +67,10 @@ indent_style = unset
 
 [*.json]
 indent_size = 2
+
+# Keep sample data intact
+[*.sample.*]
+indent_style = unset
+indent_size = unset
+trim_trailing_whitespace = unset
+insert_final_newline = unset
