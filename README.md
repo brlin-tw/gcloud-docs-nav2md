@@ -7,6 +7,15 @@ Convert the unselectable navigation interface of the Google Cloud documentation 
 
 \#google-cloud \#data-conversion \#html-query
 
+## Prerequisites
+
+You need to have the following software installed in order to follow this tutorial:
+
+* Mozilla Firefox
+* html-query
+* Your preferred plaintext editor application
+* Your preferred text terminal emulator application
+
 ## Licensing
 
 Unless otherwise noted(individual file's header/[REUSE.toml](REUSE.toml)), this product is licensed under [the _license_version_ version of the _license_name_ license](_license_url_), or any of its recent versions you would prefer.
