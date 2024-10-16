@@ -12,7 +12,7 @@ Convert the unselectable navigation interface of the Google Cloud documentation 
 You need to have the following software installed in order to follow this tutorial:
 
 * Mozilla Firefox
-* html-query
+* [html-query](https://github.com/orf/html-query)
 * Your preferred plaintext editor application
 * Your preferred text terminal emulator application
 
